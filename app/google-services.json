@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "539307739815",
+    "project_id": "prueba-bf4f9",
+    "storage_bucket": "prueba-bf4f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539307739815:android:e6b601ded7524268406982",
+        "android_client_info": {
+          "package_name": "com.juan.equipoec4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539307739815-qks5am9diuaeitvhiod50c8tql3jha83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeW7N7IWB0PYNhghDoLhHE8wONeHjR764"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539307739815-qks5am9diuaeitvhiod50c8tql3jha83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

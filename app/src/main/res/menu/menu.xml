@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@id/listaFragment"
+        android:enabled="true"
+        android:icon="@drawable/lista"
+        android:title="Lista" />
+    <item
+        android:id="@id/favoritoFragment"
+        android:enabled="true"
+        android:icon="@drawable/favorito"
+        android:title="Favoritos" />
+    <item
+        android:id="@id/agregarFragment"
+        android:enabled="true"
+        android:icon="@drawable/agregar"
+        android:title="Agregar" />
+    <item
+        android:id="@id/infoFragment"
+        android:enabled="true"
+        android:icon="@drawable/info"
+        android:title="Info" />
+</menu>
